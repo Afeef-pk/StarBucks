@@ -45,7 +45,11 @@ body {
 
 .header-text {
   list-style: none;
+<<<<<<< HEAD
   font-weight: 800;
+=======
+  font-weight: bold;
+>>>>>>> c90d880c6a9938ceaff9273b831f7196c22b05ea
   font-family: 'Kanit';
   letter-spacing: 2px;
   font-size: 14px;
